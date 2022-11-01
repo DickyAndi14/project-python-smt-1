@@ -1,0 +1,1 @@
+st.write("suhu dalam fahrenheit adalah", suhu)
